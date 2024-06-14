@@ -13,7 +13,7 @@
 
 ```javascript
 const kushal = {
-  pronouns: "he" | "him",
+  pronouns: "He" | "Him",
   stack: ["HTML", "CSS", "Javascript"],
   client: ["React", "Next.js", "React Native"],
   server: ["Node", "EJS", "Express", "MongoDB" ],
