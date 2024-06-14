@@ -14,10 +14,9 @@
 ```javascript
 const kushal = {
   pronouns: "he" | "him",
-  stack: ["JavaScript", "Typescript"],
-  skills: ["MongoDB", "Express", "React/Native", "Node"],
-  frontEnd: ["Next", "React", "ReactNative"],
-  backend: ["Node", "MongoDB", "Prisma" ],
-  tools: ["Redux", "Tailwind", "Shadcn", "Zod" ],
+  stack: ["HTML", "CSS", "Javascript"],
+  client: ["React", "Next.js", "React Native"],
+  server: ["Node", "Express", "MongoDB" ],
+  tools: ["Typescript", "Redux", "TailwindCSS", "shadcn", "Firebase", "Zod" ],
 }
 ```
