@@ -16,7 +16,7 @@ const kushal = {
   pronouns: "he" | "him",
   stack: ["HTML", "CSS", "Javascript"],
   client: ["React", "Next.js", "React Native"],
-  server: ["Node", "Express", "MongoDB" ],
+  server: ["Node", "EJS", "Express", "MongoDB" ],
   tools: ["Typescript", "Redux", "TailwindCSS", "shadcn", "Firebase", "Zod" ],
 }
 ```
