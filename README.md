@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Kushal Nandwani! </h2>
-<p><em>Software Enginner at <a href="https://www.hootboard.com">Hootboard</a> 
+<p><em>Software Enginner at <a href="https://www.offlensdesign.com/">Offlens Tech</a> 
 </em></p>
 
 [![Twitter: knandwani98](https://img.shields.io/twitter/follow/knandwani98?style=social)](https://twitter.com/knandwani98)
